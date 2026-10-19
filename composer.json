@@ -1,0 +1,6 @@
+{
+  "name": "laptopku/project-karyawan",
+  "require": {
+    "dompdf/dompdf": "^3.1"
+  }
+}

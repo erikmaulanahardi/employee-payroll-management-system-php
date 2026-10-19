@@ -1,0 +1,30 @@
+# Composer dependencies
+vendor/
+composer.lock
+
+# Configuration with sensitive data
+config.php
+
+# User uploaded files
+photos/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
